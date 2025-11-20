@@ -40,7 +40,7 @@ All output files are neatly organised into subfolders inside `output/`.
 
 ---
 
-## 📥 Cloning the Repository
+### 📥 Cloning the Repository
 
 To download this project to your own machine, run the following command in your terminal:
 
