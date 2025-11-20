@@ -40,6 +40,16 @@ All output files are neatly organised into subfolders inside `output/`.
 
 ---
 
+## 📥 Cloning the Repository
+
+To download this project to your own machine, run the following command in your terminal:
+
+git clone https://github.com/Tanzim-bot/gaussian-blur-parallel.git
+
+Then navigate into the project folder:
+
+cd gaussian-blur-parallel
+
 # 🧪 Virtual Environment Setup (Recommended)
 
 ### 1. Create a virtual environment
