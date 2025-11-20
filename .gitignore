@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# IDE settings (optional)
+.vscode/
+.idea/
+
+# Output folders (generated data and images)
+output/images/
+output/results/
+output/plots/
