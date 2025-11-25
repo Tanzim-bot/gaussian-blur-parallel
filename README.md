@@ -243,4 +243,4 @@ These are all widely available and cross-platform.
 
 ---
 
-If you have any issues running the scripts or want help drafting parts of your academic report (e.g., performance discussion, reflection, design rationale), feel free to ask!
+
