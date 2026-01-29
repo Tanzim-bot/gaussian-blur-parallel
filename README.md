@@ -13,7 +13,7 @@ This project is part of the **CS3S666 – Parallel and Concurrent Programming** 
 
 # 📁 Project Structure
 
-Your project folder should look like this:
+Project folder should look like this:
 
 ```
 gaussian_blur_parallel/
