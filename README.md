@@ -11,7 +11,7 @@ This project is part of the **CS3S666 – Parallel and Concurrent Programming** 
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 Project folder should look like this:
 
@@ -40,7 +40,7 @@ All output files are neatly organised into subfolders inside `output/`.
 
 ---
 
-### 📥 Cloning the Repository
+###  Cloning the Repository
 
 To download this project to your own machine, run the following command in your terminal:
 
@@ -50,7 +50,7 @@ Then navigate into the project folder:
 
 cd gaussian-blur-parallel
 
-# 🧪 Virtual Environment Setup (Recommended)
+#  Virtual Environment Setup (Recommended)
 
 ### 1. Create a virtual environment
 
@@ -84,7 +84,7 @@ pip install numpy pillow matplotlib pandas
 
 ---
 
-# ▶️ How to Run the Application
+# How to Run the Application
 
 ## **1. Run the sequential blur**
 
@@ -174,7 +174,7 @@ Insert these graphs into your report for the **Performance Analysis** section.
 
 ---
 
-# 🧠 How the Algorithm Works
+#  How the Algorithm Works
 
 ### **Sequential Version**
 - Converts image to grayscale  
@@ -192,7 +192,7 @@ This demonstrates how CPU-bound tasks benefit from multiprocessing.
 
 ---
 
-# 📘 Key Files Explained
+#  Key Files Explained
 
 ### `utils.py`
 Generates the Gaussian kernel used by both sequential & parallel implementations.
@@ -219,7 +219,7 @@ Creates all graphs needed for your coursework report.
 
 ---
 
-# 📝 Notes for the Coursework Report
+#  Notes for the Coursework Report
 
 The project naturally supports:
 
