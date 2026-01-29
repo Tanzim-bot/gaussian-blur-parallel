@@ -231,7 +231,7 @@ The project naturally supports:
 
 ---
 
-# ✔ Requirements
+#  Requirements
 
 - Python 3.8+
 - numpy  
